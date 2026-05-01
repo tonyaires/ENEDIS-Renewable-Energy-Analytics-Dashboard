@@ -42,6 +42,14 @@ The objective is to explore energy generation patterns, regional disparities, an
 
 ---
 
+## 📊 Dashboard Preview
+
+This dashboard provides a comprehensive view of renewable energy production and regional performance across France.
+
+![ENEDIS Dashboard](docs/enedis_dashboard_page1.png)
+
+---
+
 ## 🧭 Project Objectives
 
 The goal is to demonstrate strong **data analysis and visualization skills** by transforming raw energy data into actionable insights.
